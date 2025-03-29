@@ -3,9 +3,9 @@
 I'm a team player deeply committed to continuously evolving and learning different technologies.
 
 I love working in:
-💻 Full-Stack Development
-📊 Data Analytics
-🛢️ Database Management
+\n💻 Full-Stack Development
+\n📊 Data Analytics
+\n🛢️ Database Management
 
 I'm super excited to use my challenge mindset and technical expertise to make your company's vision a reality. 
 
