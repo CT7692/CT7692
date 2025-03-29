@@ -1,5 +1,5 @@
 ## 👋🏻 Hello, there! I'm Joseph!
-I'm a team player deeply committed to continuously evolving and learning different technologies.<br><br>I love working in:<br>💻 Full-Stack Development<br>📊 Data Analytics<br>🗄️ Database Management<be><br>I'm super excited to use my challenge mindset and technical expertise to make your company's vision a reality.
+I'm a team player deeply committed to continuously evolving and learning different technologies.<br><br>I love working in:<br>💻 Full-Stack Development<br>📊 Data Analytics<br>🗄️ Database Management<br><br>I'm super excited to use my challenge mindset and technical expertise to make your company's vision a reality.
 
 
 # 💻 Tech Stack:
